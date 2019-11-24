@@ -1,0 +1,2 @@
+# LampAsh
+My first repository.
